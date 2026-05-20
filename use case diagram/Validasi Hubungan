@@ -1,0 +1,12 @@
+Relasi yang Ada di Diagram
+Diagram menampilkan tiga relasi yang ditandai secara eksplisit.
+Pertama, Input Data Lahan <<include>> Mendapatkan Rekomendasi AI.
+Relasi ini valid. Setiap kali petani menginput data lahan, sistem wajib memproses data tersebut
+untuk menghasilkan rekomendasi AI secara otomatis. 
+Karena sifatnya selalu terpanggil tanpa kondisi tertentu, penggunaan <<include>> sudah tepat.
+Kedua, Monitoring Tanaman <<include>> Melihat Data Sensor IoT.
+Relasi ini juga valid. Proses monitoring tidak bisa berjalan tanpa membaca data dari sensor IoT seperti suhu, kelembaban, dan pH tanah. Setiap kali use case Monitoring Tanaman diakses, 
+data sensor pasti dimuat — sehingga <<include>> sesuai.
+Ketiga, Upload Foto Tanaman <<include>> Menerima Notifikasi Otomatis. Relasi ini perlu direvisi. Garis putus-putus pada diagram sebenarnya sudah mengisyaratkan keraguan. 
+Notifikasi tidak selalu dikirim setiap kali foto diupload — notifikasi hanya terpicu jika sistem mendeteksi adanya anomali atau penyakit pada tanaman. Karena bersifat kondisional,
+relasi yang tepat seharusnya adalah <<extend>> dengan kondisi "terdeteksi penyakit/anomali", bukan <<include>>.
