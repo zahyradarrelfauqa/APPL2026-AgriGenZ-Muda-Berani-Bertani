@@ -1,0 +1,9 @@
+A. Analisis Kebutuhan Perangkat Lunak (Software)
+1. PL Developer = Perangkat lunak yang digunakan meliputi Visual Studio Code, Figma, GitHub, dan MySQL. Seluruh perangkat lunak tersebut berfungsi untuk membuat, mendesain, mengembangkan, serta mengelola aplikasi AgriGenZ.
+2. PL yang akan dibuat = Perangkat lunak yang dikembangkan terdiri dari AgriGenZ Mobile App, AgriGenZ Web Admin, dan Sistem Database AgriGenZ. Sistem ini berfungsi sebagai media monitoring dan asisten pertanian digital bagi pengguna.
+3. PL yang digunakan klien = Klien menggunakan Android OS, Google Chrome, aplikasi AgriGenZ, dan WhatsApp untuk mengakses serta menggunakan sistem AgriGenZ dengan lebih mudah.
+
+B. Analisis Kebutuhan Perangkat Keras (Hardware)
+1. PK Developer = Perangkat keras yang digunakan developer meliputi Laptop/PC, Smartphone Android, Mouse & Keyboard, serta koneksi internet. Perangkat tersebut digunakan untuk proses pengembangan dan pengujian aplikasi.
+2. PK yang akan dibuat = Perangkat keras yang disiapkan berupa Server AgriGenZ dan sistem monitoring digital yang berfungsi untuk menyimpan serta memproses data sistem.
+3. PK yang digunakan klien = Klien menggunakan Smartphone Android, Laptop/PC, kamera smartphone, dan jaringan internet untuk mengakses serta menggunakan aplikasi AgriGenZ.
