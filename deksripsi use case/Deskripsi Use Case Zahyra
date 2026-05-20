@@ -1,0 +1,8 @@
+Deskripsi Use Case 
+Aktor 
+Admin : pengelola sistem yang mengawasi data pengguna, tanaman, dan laporan sistem
+Use Case
+Monitoring Tanaman : Use case Monitoring Tanaman digunakan untuk membantu petani memantau kondisi tanaman secara berkala melalui sistem monitoring pada aplikasi AgriGenZ.
+Melihat Data Sensor IoT : Use case Melihat Data Sensor IoT digunakan untuk menampilkan data dari sensor IoT seperti suhu dan kelembapan tanah saat proses monitoring tanaman berlangsung.
+Upload Foto Tanaman : Use case Upload Foto Tanaman digunakan untuk membantu petani mengunggah foto tanaman ke dalam sistem untuk dianalisis lebih lanjut.
+Menerima Notifikasi Otomatis : Use case Menerima Notifikasi Otomatis digunakan untuk memberikan notifikasi otomatis kepada pengguna setelah proses upload dan analisis foto tanaman dilakukan oleh sistem.
