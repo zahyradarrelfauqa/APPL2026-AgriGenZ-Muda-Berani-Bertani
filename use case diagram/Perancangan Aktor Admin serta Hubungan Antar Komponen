@@ -1,0 +1,10 @@
+Pada use case diagram sistem AgriGenZ, aktor Admin dirancang sebagai pengguna yang memiliki hak akses untuk mengelola dan memantau sistem secara keseluruhan.
+Admin berperan dalam memastikan data dan aktivitas pada aplikasi dapat berjalan dengan baik.
+Oleh karena itu, Admin memiliki beberapa use case yang terhubung langsung dengan sistem melalui hubungan association.
+Association pada diagram digambarkan dengan garis penghubung antara aktor Admin dan fitur yang dapat diakses.
+Admin terhubung dengan use case Login untuk melakukan autentikasi sebelum masuk ke dalam sistem. 
+Setelah berhasil login, Admin dapat mengakses fitur Kelola Data Pengguna yang digunakan untuk mengatur data pengguna aplikasi. 
+Selain itu, Admin juga terhubung dengan fitur Kelola Data Tanaman yang berfungsi untuk mengelola informasi tanaman pada sistem AgriGenZ.
+Admin juga memiliki hubungan association dengan fitur Monitoring Sistem untuk memantau aktivitas dan kondisi sistem secara keseluruhan.
+Selanjutnya, Admin terhubung dengan fitur Melihat Laporan yang digunakan untuk melihat hasil laporan data maupun aktivitas yang terjadi pada aplikasi. 
+Dengan adanya pemetaan hubungan association tersebut, interaksi antara Admin dan sistem dapat dipahami dengan lebih jelas sehingga mempermudah proses pengembangan dan pengelolaan sistem AgriGenZ.
