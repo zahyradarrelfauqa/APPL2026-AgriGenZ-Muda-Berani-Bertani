@@ -1,0 +1,27 @@
+kebutuhan non-fungsional sistem aplikasi pertanian
+aktor yang terlibat: petani dan admin
+
+tampilan dan kemudahan penggunaan:
+sistem harus memiliki tampilan yang user friendly
+sistem harus mudah digunakan oleh petani
+tampilan aplikasi harus sederhana dan mudah dipahami
+
+aksesibilitas sistem:
+sistem dapat diakses melalui smartphone dan web
+sistem kompatibel dengan Android
+sistem dapat digunakan dengan koneksi internet standar
+
+keamanan dan penyimpanan data:
+sistem harus memiliki keamanan login dan data pengguna
+semua data pengguna harus tersimpan aman dalam database
+sistem harus memiliki backup data untuk mencegah kehilangan data
+sistem mampu menyimpan data dalam jumlah besar
+
+kinerja sistem:
+sistem mampu berjalan selama 24 jam tanpa gangguan
+sistem memiliki respon cepat saat digunakan
+sistem harus memiliki tingkat error yang rendah agar penggunaan lebih stabil
+
+pengembangan sistem:
+sistem harus mudah dikembangkan di masa depan
+sistem harus mudah dipelihara dan diperbarui sesuai kebutuhan pengguna
