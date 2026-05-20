@@ -1,1 +1,27 @@
+kebutuhan sistem aplikasi pertanian
+aktor yang terlibat: petani dan admin
+
+manajemen pengguna:
+  user membuat akun sebelum memakai aplikasi
+  bisa login dan logout
+fitur untuk petani:
+  petani bisa input data lahan, tanaman dan menyimpannya
+  petani bisa tracking atau melihat perkembangan tanaman
+  petani bisa unggah foto kondisi tanaman
+  petani bisa melihat riwayat aktivitas yang telah dilakukan
+fitur pintar rekomendasi:
+  sistem memberikan rekomendasi perawatan secara otomatis
+  sistem memberikan info cuaca
+  sistem memberikan informasi mengenai hama dan penyakit tanaman
+  menyediakan fitur konsultasi atau chat
+notifikasi:
+  aplikasi bisa mengirim notifikasi pengingat jadwal pertanian
+  bisa mengirim peringatan dini jika ada indikasi bahaya
+fitur untuk admin:
+  halaman dashboard monitoring utama untuk memantau petani di sistem
+  bisa membuat laporan monitoring
+  bisa mngelola pengguna
+
+semua data yang dinput harus tersimpan aman dalam database.
+
 
