@@ -1,0 +1,23 @@
+Analisis Kebutuhan Pengguna
+Pengguna Sistem
+Sistem AgriGenZ memiliki dua aktor utama:
+Petani
+Admin 
+Kebutuhan Pengguna 
+Kebutuhan Pengguna Petani 
+Petani membutuhkan sistem yang dapat membantu proses monitoring dan pengelolaan pertanian secara digital. 
+Kebutuhan Petani:
+Registrasi akun dan login.
+Menginput data lahan pertanian: luas lahan,lokasi, jenis tanaman,tanggal tanam.
+Melihat perkembangan tanaman.
+Melihat data sensor IoT
+Mendapatkan rekomendasi perawatan tanaman.
+Mendapatkan notifikasi jadwal: penyiraman, pemupukan, panen.
+Mengunggah foto tanaman.
+Melihat riwayat aktivitas pertanian.
+Berkonsultasi dengan admin.
+Mendapatkan informasi cuaca dan hama.
+Mengakses aplikasi melalui smartphone.
+Kebutuhan Pengguna Admin 
+Admin bertugas mengelola sistem sekaligus melakukan monitoring dan pendampingan kepada petani. 
+Kebutuhan Admin:
